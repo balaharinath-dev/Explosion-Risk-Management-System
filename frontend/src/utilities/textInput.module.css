@@ -1,0 +1,56 @@
+.svg{
+    width: 30px;
+    height: 30px;
+}
+
+.inputField{
+    border-radius: 0 !important;
+    border-bottom: 1px solid black !important;
+    border-top: 0 !important; 
+    border-left: 0 !important; 
+    border-right: 0 !important;
+}
+
+.inputField:focus{
+    box-shadow: 0px 1px 0px rgb(0, 0, 0) !important;
+}
+
+.invalidInput{
+    border-radius: 0 !important;
+    border-bottom: 1px solid #dc3545 !important;
+    border-top: 0 !important; 
+    border-left: 0 !important; 
+    border-right: 0 !important;
+}
+
+.invalidInput:focus{
+    box-shadow: 0px 1px 0px #dc3545 !important;
+}
+
+.selectValid{
+    border-radius: 0% !important;
+    border-bottom: 1px solid black !important;
+    border-top: 0 !important; 
+    border-left: 0 !important; 
+    border-right: 0 !important;
+}
+
+.selectValid:focus{
+    box-shadow: 0px 1px 0px rgb(0, 0, 0) !important;
+}
+
+.selectInvalid{
+    border-radius: 0 !important;
+    border-bottom: 1px solid #dc3545 !important;
+    border-top: 0 !important; 
+    border-left: 0 !important; 
+    border-right: 0 !important;
+}
+
+.selectInvalid:focus{
+    box-shadow: 0px 1px 0px #dc3545 !important;
+}
+
+.width{
+    width: 42.5% !important;
+}

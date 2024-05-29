@@ -1,0 +1,15 @@
+.mainContainer{
+    height: 100vh !important;
+    max-width: 100vw !important;
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+}
+
+.okay{
+    background-color: rgba(0, 128, 0, 0.75) !important;
+}
+
+.notOkay{
+    background-color: rgba(255, 0, 0, 0.75) !important;
+}

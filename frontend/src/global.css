@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Arrow;
+    src: url('utilities/fonts/Arrow.ttf') format('truetype');
+}
+
+body{
+    font-family: sans-serif !important;
+}
